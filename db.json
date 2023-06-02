@@ -9,13 +9,51 @@
   ],
   "courseResults": [
     {
+      "id": "3ccd3347-b013-4a9e-8c74-2ceabbb0f9bc",
       "name": "Test Course",
       "score": 100,
       "learnerId": "bc3e02fa-8a5e-4c1c-b78a-9dad0505876f"
     },
     {
+      "id": "82bda89f-c340-4c28-96ce-a119c4fa1c97",
       "name": "Test Course 2",
       "score": 50,
+      "learnerId": "bc3e02fa-8a5e-4c1c-b78a-9dad0505876f"
+    },
+    {
+      "id": "6df67aa7-8af6-4d15-a9de-ec9100ba0923",
+      "name": "Math",
+      "score": 12,
+      "learnerId": "17715428-bbda-43b4-9e9c-53eb89cf243a"
+    },
+    {
+      "id": "b6bca50b-548f-427b-bc37-c0e755cb57df",
+      "name": "SCC",
+      "score": 123,
+      "learnerId": "17715428-bbda-43b4-9e9c-53eb89cf243a"
+    },
+    {
+      "id": "0995abb9-b6ac-465f-8230-9e78b650176d",
+      "name": "abc",
+      "score": 123,
+      "learnerId": "17715428-bbda-43b4-9e9c-53eb89cf243a"
+    },
+    {
+      "id": "287114c5-c738-41ce-8112-4b23460518d1",
+      "name": "A",
+      "score": 15,
+      "learnerId": "17715428-bbda-43b4-9e9c-53eb89cf243a"
+    },
+    {
+      "id": "c2043340-3124-41e1-8fc3-e729c8396053",
+      "name": "X",
+      "score": 45,
+      "learnerId": "17715428-bbda-43b4-9e9c-53eb89cf243a"
+    },
+    {
+      "id": "1a82bb6f-9300-441b-9ddc-e9782f93c7e4",
+      "name": "Test Course A",
+      "score": 80,
       "learnerId": "bc3e02fa-8a5e-4c1c-b78a-9dad0505876f"
     }
   ]

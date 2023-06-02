@@ -13,6 +13,7 @@ export default gql`
 
     # ToDo: Finish missing attributes
     type CourseResult {
+        id: ID!
         name: String!
         score: Int!
         learnerId: ID!
